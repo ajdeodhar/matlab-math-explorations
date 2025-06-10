@@ -5,7 +5,7 @@ This MATLAB script calculates eigenvalues and normalized eigenvectors of a user-
 ## Concepts
 - Symbolic derivation of eigenvalues using trace and determinant
 - Finding eigenvectors by solving ratios manually
-- Verifying eigenvectors using \( A \vec{x} = \lambda \vec{x} \)
+- Verifying eigenvectors using the equation: A * x = λ * x
 - Normalizing eigenvectors and ensuring consistency
 
 ## Files Included
