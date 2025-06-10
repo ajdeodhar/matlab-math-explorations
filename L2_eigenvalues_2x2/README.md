@@ -14,10 +14,9 @@ This MATLAB script calculates eigenvalues and normalized eigenvectors of a user-
 - `L2_output_command_window.pdf`: Final output from Command Window
 
 ## Output Verification
-For each eigenvalue:
-- Two expressions for \( a/b \) (from top and bottom row) are compared
-- Check outputs 0 when both match
-- Final eigenvectors are normalized to unit length
+- The script compares the eigenvector ratios obtained from both matrix rows
+- Residuals from mismatches are near zero
+- Normalized eigenvectors are confirmed to work correctly
 
 ---
 
